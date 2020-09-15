@@ -7,4 +7,4 @@ To install GEOS in Ubuntu using `apt`:
 
 ### Installation in `pip`
 
-`pip install requirements.txt` 
+`pip install -r  requirements.txt` 
